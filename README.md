@@ -29,7 +29,6 @@ Sou desenvolvedor **Full-Stack** apaixonado por tecnologia, atualmente focado em
 
 ### 🗄️ Banco de dados
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" />
 </p>
@@ -37,7 +36,7 @@ Sou desenvolvedor **Full-Stack** apaixonado por tecnologia, atualmente focado em
 ### 🛠️ Ferramentas e DevOps
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />"
 </p>
 
 ---
