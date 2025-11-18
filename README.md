@@ -59,7 +59,7 @@ Apaixonado por criar soluções que resolvem problemas reais. Sempre estudando n
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [https://www.linkedin.com/in/seu-perfil ](https://www.linkedin.com/in/gabriel-rodrigues-9682b6153/) 
+- LinkedIn: [https://www.linkedin.com/in/gabriel-rodrigues-9682b6153/](https://www.linkedin.com/in/gabriel-rodrigues-9682b6153/) 
 - Email: **grodrigues.ti@outlook.com**
 
 ---
