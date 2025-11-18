@@ -1,12 +1,11 @@
 ##  Olá, eu sou o Gabriel 👋
 
-<div >
-  <img  heigth="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullstack-rodrigues&layout=compact">
-</div>
-
 Sou desenvolvedor **Full-Stack** apaixonado por tecnologia, atualmente focado em **Angular**, **React**, **.NET (C#)** e todo o ecossistema de TypeScript + Node.js.  
 📍 São Paulo, Brasil
 
+<div >
+  <img  heigth="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullstack-rodrigues&layout=compact">
+</div>
 ---
 
 ## 🧰 Tech Stack
@@ -26,7 +25,6 @@ Sou desenvolvedor **Full-Stack** apaixonado por tecnologia, atualmente focado em
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" />
 </p>
 
 ### 🗄️ Banco de dados
@@ -39,8 +37,7 @@ Sou desenvolvedor **Full-Stack** apaixonado por tecnologia, atualmente focado em
 ### 🛠️ Ferramentas e DevOps
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />" />
 </p>
 
 ---
