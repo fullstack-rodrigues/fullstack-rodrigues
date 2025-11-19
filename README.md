@@ -4,7 +4,7 @@ Sou desenvolvedor **Full-Stack** apaixonado por tecnologia, atualmente focado em
 📍 São Paulo, Brasil
 
 <div >
-  <img  heigth="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullstack-rodrigues&layout=compact">
+  <img  heigth="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullstack-rodrigues&layout=compact&cache_seconds=10">
 </div>
 ---
 
